@@ -16,6 +16,6 @@ Instruções:
 
 - Escreva um README no seu repositório com as instruções de como rodar o seu projeto e como podemos testá-lo.
 
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-**-*-*-*-*-*-*-*-*
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Para iniciar o Projeto digite no Terminal (http-server) e clique no ip (http://192.168.1.5:8080).
 - O Projeto foi feito em JavaScript rodando em um Servido (biblioteca http-server) fiz um tela simples só para mostrar o campo de entrada e o resultado.
